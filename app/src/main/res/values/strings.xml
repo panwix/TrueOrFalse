@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RightOrWrong</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">对</string>
+    <string name="false_button">错</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">下一题</string>
+    <string name="question_text1">中国的第一位女皇帝是武则天，对吗？</string>
+    <string name="question_text2">朱元璋是宋朝的皇帝，对吗？</string>
+    <string name="question_text3">第一位统一中国的皇帝是唐太宗，对吗？</string>
+    <string name="question_text4">关羽就是传说中的武圣，对吗？</string>
+</resources>
